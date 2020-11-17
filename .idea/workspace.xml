@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0264107-e3ff-4704-a93e-427c005820ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Imooc/.idea/Imooc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/Demo5/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/views/GoodsList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/views/Image.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/src/views/Title.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Imooc/ImoocMall/static/.gitkeep" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Imooc" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1jjS7Mp4ktHzMGJ7nQq3kLxVcs5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0264107-e3ff-4704-a93e-427c005820ac" name="Default Changelist" comment="" />
+      <created>1604315839881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604315839881</updated>
+      <workItem from="1604315840948" duration="3149000" />
+      <workItem from="1604562534673" duration="1067000" />
+      <workItem from="1605614853732" duration="270000" />
+      <workItem from="1605615193218" duration="4815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="344" key="Github.ShareDialog" timestamp="1605620122219">
+      <screen x="0" y="25" width="1440" height="828" />
+    </state>
+    <state x="591" y="344" key="Github.ShareDialog/0.25.1440.828@0.25.1440.828" timestamp="1605620122219" />
+    <state x="503" y="66" key="Github.UntrackedFilesDialog" timestamp="1605620130104">
+      <screen x="0" y="25" width="1440" height="828" />
+    </state>
+    <state x="503" y="66" key="Github.UntrackedFilesDialog/0.25.1440.828@0.25.1440.828" timestamp="1605620130104" />
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2" timestamp="1605620300040">
+      <screen x="0" y="25" width="1440" height="828" />
+    </state>
+    <state x="320" y="172" key="Vcs.Push.Dialog.v2/0.25.1440.828@0.25.1440.828" timestamp="1605620300040" />
+    <state x="516" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605620455232">
+      <screen x="0" y="25" width="1440" height="828" />
+    </state>
+    <state x="516" y="326" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.828@0.25.1440.828" timestamp="1605620455232" />
+  </component>
+</project>
