@@ -1,6 +1,6 @@
 <template>
 <div>
-  <p>这是商品列表页面</p>
+  <p>这是商品列表页面 Hello</p>
   <span>{{$route.params.goodsId}}</span><br>
   <span>{{$route.params.name }}</span>
   <router-link to="/goods/title">show goods title.</router-link>
